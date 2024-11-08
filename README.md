@@ -54,5 +54,5 @@ Make sure you have a running Backstage or RHDH instance and if you don't have on
 
 6. From the backstage root directory and the plugins directory, run `yarn` command to install any missing NPM dependencies.
 
-7. Start your application from the root directory, and then navigate to [/krkn-chaos}](http://localhost:3000/krkn-chaos).
+7. Start your application from the root directory, and then navigate to [/krkn-chaos](http://localhost:3000/krkn-chaos).
 
